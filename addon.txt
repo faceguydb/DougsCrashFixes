@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Dougs Crash Fixes"
+	"version"			"1"
+	"up_date"			"Feb 23 2013"
+	"author_name"		"Douglas huck"
+	"author_email"		""
+	"author_url"		"http://douglashuck.com"
+	"info"				"Helps prevent server crashes."
+	"override"			"0"
+}
