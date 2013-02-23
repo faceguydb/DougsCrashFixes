@@ -1,4 +1,4 @@
-local maxDist = 10
+local maxDist = 2000
 local _R = debug.getregistry()
 local oldentsetpos = _R.Entity.SetPos
 function _R.Entity:SetPos(pos)
